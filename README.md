@@ -3,6 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/haripamu/Streamer/master/screenshots/StreamList.png "StreamList")
 ![alt text](https://raw.githubusercontent.com/haripamu/Streamer/master/screenshots/CreateStream.png "CreateStream")
 ![alt text](https://raw.githubusercontent.com/haripamu/Streamer/master/screenshots/UpdateStream.png "UpdateStream")
+![alt text](https://raw.githubusercontent.com/haripamu/Streamer/master/screenshots/Viewer.png "StreamViewer")
 ![alt text](https://raw.githubusercontent.com/haripamu/Streamer/master/screenshots/PleaseSignIn.png "PleaseSignIn")
 
 
